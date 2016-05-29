@@ -1,0 +1,20 @@
+{
+  "name": "angular-component-template",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rameshkrishnan/angular-component-template.git",
+  "authors": [
+    "rameshkrishnan"
+  ],
+  "description": "A template to create angularjs 1.x based components.",
+  "main": [
+    "dist/index.js",
+    "dist/styles.css"
+  ],
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "angularjs#^1.5.3",
+    "angular-mocks": "^1.5.5"
+  },
+  "dependencies": {}
+}
