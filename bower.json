@@ -16,5 +16,12 @@
     "angular": "angularjs#^1.5.3",
     "angular-mocks": "^1.5.5"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "test"
+  ]
 }
